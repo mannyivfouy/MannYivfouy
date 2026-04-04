@@ -58,7 +58,16 @@
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=idea" height="60" alt="intellij logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="60" alt="phpstorm logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webstorm" height="60" alt="webstorm logo" />
 </div>
+<br>
 
 <p align="center">
   <a href="https://github.com/mannyivfouy">
