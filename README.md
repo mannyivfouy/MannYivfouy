@@ -55,6 +55,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="60" alt="visual studio logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="60" alt="postman logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo" />
