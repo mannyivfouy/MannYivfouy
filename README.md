@@ -1,46 +1,76 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Mann%20Yivfouy&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Junior%20Web%20Developer&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
 
-<img src="https://github.com/mannyivfouy.png" width="120" style="border-radius:50%" alt="Mann Yivfouy" />
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=mannyivfouy">
+    <img src="https://komarev.com/ghpvc/?username=mannyivfouy&label=Profile%20views&color=00FFFF&style=flat-square" alt="mannyivfouy's profile views" />
+  </a>
+</p>
 
-# Hi, I'm Mann Yivfouy 👋
+## 📊 GitHub Stats & Trophies
+<p align="center">
+  <a href="https://github.com/mannyivfouy">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mannyivfouy&cache_seconds=7200&layout=compact&theme=shades-of-purple&border_radius=10" alt="mannyivfouy's GitHub Stats" />
+  </a>
+  <img src="https://streak-stats.demolab.com/?user=mannyivfouy&theme=shades-of-purple&hide_border=true&cache_seconds=86400" alt="mannyivfouy's GitHub Streak" width="49%" />
+</p>
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=mannyivfouy&theme=shades-of-purple&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Mann Yivfouy's GitHub Trophies" />
+</p>
+<p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=mannyivfouy&theme=shades-of-purple&radius=10" alt="mannyivfouy's Activity Graph" />
+</p>
 
-**Junior Web Developer**
 
-![Status](https://img.shields.io/badge/Open%20to%20opportunities-2ea44f?style=flat-square)
-![Location](https://img.shields.io/badge/📍_Phnom%20Penh%2C%20Cambodia-333?style=flat-square)
+## 🛠️ Languages & Tools
 
-</div>
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" />
 
----
+</p>
 
-## 🛠️ Tech Stack
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" title="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="30" alt="Bootstrap" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="Tailwind" title="Tailwind" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="Angular" title="Angular" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <!-- ExpressJs not found in devicon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <!-- Postman not found in devicon -->
-</div>
+</p>
 
----
+<h3 align="center">Backend</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" />
 
-## 📊 GitHub Stats
+</p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mannyivfouy&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannyivfouy&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" />
 
----
+</p>
 
-<div align="center">
-  <i>Thanks for visiting! ⭐ Feel free to check out my repos.</i>
-</div>
+<h3 align="center">Tools</h3>
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" />&nbsp;
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" />
+
+</p>
+
+<p align="center">
+  <a href="https://github.com/mannyivfouy">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mannyivfouy&langs_count=8&layout=compact&theme=shades-of-purple&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
+
+![Top language](https://stats.pphat.top/languages?username=mannyivfouy)
+<br/>
+
+<p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+
