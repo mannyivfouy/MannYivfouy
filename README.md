@@ -6,7 +6,7 @@
 ### 🧑‍💻 About Me
 
 - 🔭 Currently working on full-stack web applications
-- 🌱 Always learning — currently exploring **NestJS** and **Docker**
+- 🌱 Always learning — currently exploring some new tech
 - 💬 Ask me about **Angular, Node.js, TypeScript, REST APIs**
 - ⚡ Fun fact: I debug with `console.log` and I'm not ashamed
 
