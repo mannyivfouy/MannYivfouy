@@ -44,14 +44,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mannyivfouy&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" />
-</p>
-
----
-
 ### 📈 Contribution Graph
 
 <p align="center">
