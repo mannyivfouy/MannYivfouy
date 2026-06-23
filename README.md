@@ -21,12 +21,12 @@
 
 #### Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,oracle" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,oracle" />
 </p>
 
 #### Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,postman" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,phpstorm,git,github,npm,postman" />
 </p>
 
 ---
