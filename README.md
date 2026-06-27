@@ -1,7 +1,8 @@
 <h1 align="center">Hi, I'm Mann Yivfouy 👋</h1>
-<h3 align="center">Junior Web Developer</h3>
+---
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Full-Stack+Web+Developer;Angular+%7C+Node.js+%7C+TypeScript;Always+learning%2C+always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Junior Web Developer" alt="Typing SVG" />
 </p>
 
 ---
