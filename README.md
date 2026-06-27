@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Full-Stack+Web+Developer;Angular+%7C+Node.js+%7C+TypeScript;Always+learning%2C+always+building" alt="Typing SVG" />
 </p>
+
 ---
 
 ### 🧑‍💻 About Me
