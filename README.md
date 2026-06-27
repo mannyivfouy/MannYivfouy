@@ -19,9 +19,14 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,tailwind" />
 </p>
 
-#### Backend & Database
+#### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,oracle" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,php" />
+</p>
+
+#### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb, mysql"/>
 </p>
 
 #### Tools & Workflow
