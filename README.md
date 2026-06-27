@@ -26,7 +26,7 @@
 
 #### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb, mysql"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 #### Tools & Workflow
