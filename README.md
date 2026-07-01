@@ -49,18 +49,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mannyivfouy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannyivfouy&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannyivfouy&theme=github-dark&hide_border=true" />
-</p>
-
----
- 
-### 🏆 Trophies
-<p align="center">
-  <img src="[https://github-profile-trophy.vercel.app/?username=mannyivfouy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2](https://github-profile-trophy.vercel.app/?username=mannyivfouy&theme=onedark)" />
 </p>
 
 ---
