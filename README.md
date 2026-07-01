@@ -6,6 +6,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Junior+Web+Developer" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mannyivfouy&color=58A6FF&style=flat&label=Profile+Views" alt="Profile views" />
+</p>
+
 ---
 
 ### 🧑‍💻 About Me
@@ -50,6 +54,13 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mannyivfouy&theme=github-dark&hide_border=true" />
+</p>
+
+---
+ 
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mannyivfouy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2" />
 </p>
 
 ---
