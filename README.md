@@ -60,7 +60,7 @@
  
 ### 🏆 Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mannyivfouy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2" />
+  <img src="[https://github-profile-trophy.vercel.app/?username=mannyivfouy&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=2](https://github-profile-trophy.vercel.app/?username=mannyivfouy&theme=onedark)" />
 </p>
 
 ---
