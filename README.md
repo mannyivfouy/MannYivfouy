@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm Mann Yivfouy 👋</h1>
 
+<div data-importer="image" align="center">
+  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&width=500&lines=Junior+Web+Developer" alt="Typing SVG" />
 </p>
@@ -44,8 +48,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mannyivfouy&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mannyivfouy&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="160" />
+  
 </p>
 
 <p align="center">
