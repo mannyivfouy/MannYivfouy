@@ -48,7 +48,9 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  
+  <a href="https://github.com/mannyivfouy">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mannyivfouy&langs_count=8&layout=compact&theme=tokyonight&border_radius=10" alt="Top Languages" />
+  </a>
 </p>
 
 <p align="center">
