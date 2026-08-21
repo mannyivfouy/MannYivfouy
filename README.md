@@ -32,11 +32,21 @@
 #### Backend
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,php" />
+  <a href="https://jwt.io/" target="_blank">
+    <img
+      src="https://jwt.io/img/icon.svg"
+      width="48"
+      height="48"
+      alt="JWT"
+      style="background-color: #242938; padding: 6px; border-radius: 8px;"
+    />
+  </a>
 </p>
 
 #### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48"/>
 </p>
 
 #### Tools & Workflow
