@@ -31,7 +31,7 @@
 
 #### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,php,laravel" />
   <a href="https://jwt.io/" target="_blank">
     <img
       src="https://jwt.io/img/icon.svg"
