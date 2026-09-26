@@ -22,6 +22,38 @@
 
 ---
 
+### 🚀 Featured Projects
+
+### 🏪 Precision POS
+
+> A full-stack Point of Sale & Inventory Management System built to manage products, inventory, purchases, sales, customers, staff, and payments.
+
+**Tech Stack**
+
+`Angular` `TypeScript` `Node.js` `Express` `MongoDB Atlas` `Tailwind CSS` `Bakong KHQR`
+
+**Highlights**
+
+* 🔐 JWT Authentication & Role-Based Permissions
+* 📦 Product, Inventory & Purchase Management
+* 🛒 Sales & Invoice Management
+* 💳 Cash & Bakong KHQR Payment Integration
+* 📊 Dashboard & Sales Analytics
+* 👥 Customer & Staff Management
+* 📩 Telegram Notifications
+* 🛡️ API Validation & Security
+
+<p>
+  <a href="https://github.com/mannyivfouy/POS_API_Express">
+    <img src="https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-58A6FF?style=for-the-badge&logo=node.js&logoColor=white" alt="Backend Repository" />
+  </a>
+  <a href="https://github.com/mannyivfouy/POS_UI_Angular">
+    <img src="https://img.shields.io/badge/Frontend-Angular-58A6FF?style=for-the-badge&logo=angular&logoColor=white" alt="Frontend Repository" />
+  </a>
+</p>
+
+---
+
 ### 🛠 Tech Stack
 
 #### Frontend
