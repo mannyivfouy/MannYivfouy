@@ -63,7 +63,7 @@
 
 #### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,python,php,laravel,nestjs" />
   <a href="https://jwt.io/" target="_blank">
     <img
       src="https://jwt.io/img/icon.svg"
