@@ -77,7 +77,7 @@
 
 #### Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />  
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" width="48" height="48"/>
 </p>
 
